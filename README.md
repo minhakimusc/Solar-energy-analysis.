@@ -2,8 +2,8 @@
 
 **Analyzing solar adoption trends across 50 states using SQL and MongoDB**
 
-> TAC 249 — USC Marshall School of Business
-> Authors: Minha Kim, Charles Huang
+> USC Marshall School of Business
+> Authors: Minha Kim
 
 ---
 
